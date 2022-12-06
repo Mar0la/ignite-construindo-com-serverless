@@ -7,8 +7,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Mar0la/ignite-construindo-com-serverless
-?style=flat">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Mar0la/ignite-construindo-com-serverless?style=flat">
   <a href="https://app.rocketseat.com.br/me/matheus-marins">
     <img alt="Made by Matheus Marins" src="https://img.shields.io/badge/mand%20by-matheus%20marins-darkgreen">
   </a>
